@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Intro to Tacos</span>
   <span class="subhead">Setup</span>
 </h1>
 
@@ -13,11 +13,11 @@ Open your Terminal application and navigate to your <code class="filepath">~/cod
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called <code class="filepath">tktk-module-name</code>, then enter this directory:
+Make a new directory called <code class="filepath">intro-to-tacos</code>, then enter this directory:
 
 ```bash
-mkdir tktk-module-name
-cd tktk-module-name
+mkdir intro-to-tacos
+cd intro-to-tacos
 ```
 
 Open the contents of the directory in VS Code:
@@ -25,5 +25,3 @@ Open the contents of the directory in VS Code:
 ```bash
 code .
 ```
-
-tktk Are there more lecture setup steps? Don't forget to add them here.

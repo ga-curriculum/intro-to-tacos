@@ -20,21 +20,3 @@ This content introduces the concept of tacos.
 ## References
 
 📖 [Reference Materials](./references/README.md)
-
-## Internal
-
-### Prerequisites
-
-- None!
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
